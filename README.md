@@ -29,19 +29,19 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/SebastianK2000/WeatherApp_React.git
+`git clone https://github.com/SebastianK2000/WeatherApp_React.git`
 
 2. Navigate to the project directory:
 
-cd WeatherApp_React
+`cd WeatherApp_React`
 
 3. Install dependencies:
 
-npm install
+`npm install`
 
 4. Run the application in development mode:
 
-npm start
+`npm start`
 
 The application should be accessible at `http://localhost:3000`.
 
@@ -50,7 +50,7 @@ The application should be accessible at `http://localhost:3000`.
 1. Create a `.env` file in the root directory of the project.
 2. Add your weather service API key:
 
-REACT_APP_WEATHER_API_KEY=your_api_key
+`REACT_APP_WEATHER_API_KEY=your_api_key`
 
 ## Usage
 
@@ -86,20 +86,19 @@ Aby uruchomić projekt lokalnie, wykonaj następujące kroki:
 
 1. Sklonuj repozytorium:
 
-git clone https://github.com/SebastianK2000/WeatherApp_React.git
-text
+`git clone https://github.com/SebastianK2000/WeatherApp_React.git`
 
 2. Przejdź do katalogu projektu:
 
-cd WeatherApp_React
+`cd WeatherApp_React`
 
 3. Zainstaluj zależności:
 
-npm install
+`npm install`
 
 4. Uruchom aplikację w trybie deweloperskim:
 
-npm start
+`npm start`
 
 Aplikacja powinna być dostępna pod adresem `http://localhost:3000`.
 
@@ -108,7 +107,7 @@ Aplikacja powinna być dostępna pod adresem `http://localhost:3000`.
 1. Utwórz plik `.env` w głównym katalogu projektu.
 2. Dodaj swój klucz API do serwisu pogodowego:
 
-REACT_APP_WEATHER_API_KEY=twój_klucz_api
+`REACT_APP_WEATHER_API_KEY=twój_klucz_api`
 
 ## Użycie
 
